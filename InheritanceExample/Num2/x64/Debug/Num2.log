@@ -1,0 +1,3 @@
+﻿  Num2.cpp
+D:\Учеба\Практика 3\InheritanceExample\Num2\Num2.cpp(177,56): warning C4305: аргумент: усечение из "int" в "bool"
+  Num2.vcxproj -> D:\Учеба\Практика 3\InheritanceExample\x64\Debug\Num2.exe
